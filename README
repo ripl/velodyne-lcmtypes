@@ -1,0 +1,19 @@
+Velodyne lcmtypes
+
+This software is constructed according to the Pods software policies and
+templates.  The policies and templates can be found at:
+
+  http://sourceforge.net/projects/pods
+
+====
+
+Name:         lcmtypes
+Maintainers:  FILL-ME-IN
+Summary:      FILL-ME-IN
+Description:
+  FILL-ME-IN
+
+Requirements:
+  lcm
+
+License:      FILL-ME-IN
