@@ -2,9 +2,9 @@
 
 package velodyne;
 
-struct velodyne_list_t {
+struct packet_list_t {
     int64_t utime;
 
     int32_t num_packets;
-    velodyne_t packets[num_packets];
+    packet_t packets[num_packets];
 }

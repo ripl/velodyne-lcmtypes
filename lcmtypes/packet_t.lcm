@@ -1,10 +1,10 @@
 package velodyne;
 
 /**
- * @class velodyne_t 
+ * @class packet_t
  * @brief Defines a raw velodyne data packet
  */
-struct velodyne_t
+struct packet_t
 {
 	/**
 	 * Typically filled with timestamp_now()
@@ -21,7 +21,7 @@ struct velodyne_t
 	 * Type of this packet
 	 */
 	int8_t packet_type;
-	
+
 	/**
 	 * Lenght of binary data
 	 */
