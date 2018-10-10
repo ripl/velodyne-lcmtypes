@@ -1,6 +1,6 @@
 // List of individual Velodyne packets
 
-package senlcm;
+package velodyne;
 
 struct velodyne_list_t {
     int64_t utime;
